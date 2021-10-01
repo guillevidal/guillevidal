@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Guillermo</h1>
+<h1 align="center">Hola, soy Guillermo</h1>
 
 <p>Estudiante de Programador Universitario . Actualmente buscando alguna oportunidad laboral en el mundo del desarrollo web, mientras sigo aprendiendo nuevas tecnologías y reforzando lo aprendido. </p>
 
