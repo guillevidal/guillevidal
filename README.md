@@ -1,4 +1,4 @@
-<h1> Hola, Soy Guillermo</h1>
+<h1 align="center">Hola, soy Guillermo</h1>
 
 <p>Estudiante de Programador Universitario y Desarrollador Web Full Stack </p>
 
