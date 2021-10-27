@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Guillermo</h1>
+<img src="https://www.canva.com/design/DAEuD5OJhBA/Oupl0yxO8p0QyF_VI2gBzQ/view?utm_content=DAEuD5OJhBA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="banner" />
 
 <p>Estudiante de Programador Universitario y Desarrollador Web Full Stack </p>
 
