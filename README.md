@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Guillermo</h1>
 
-<p>Estudiante de Programador Universitario y Desarrollador Web Full Stack </p>
+<p>Estudiante de la carrera Programador Universitario y Desarrollador Web Full Stack </p>
 
 ✔️Desarrollador Full Stack con preferencia en el Back-End con capacidad de realizar proyectos con buenas prácticas de desarrollo.
 
